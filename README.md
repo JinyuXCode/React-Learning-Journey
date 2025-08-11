@@ -8,7 +8,7 @@
 
 ## 🎯 我的学习目标
 
-- [⭐] **第一周**: 掌握核心概念，形成肌肉记忆。
+- [x] **第一周**: 掌握核心概念，形成肌肉记忆。
 - [ ] **第二、三周**: 能够独立完成小型综合项目，理解数据流与组件化。
 - [ ] **第四周**: 了解进阶概念与性能优化，为实战做准备。
 - [ ] **最终目标**: 能够得心应手地使用 React 进行开发，并开启 React Native 的学习之路。
@@ -42,16 +42,16 @@ npm run dev
 
 ### **第一周：思维重塑与肌肉记忆训练**
 
-- [✌️] **`useState` 专项训练**
-    - [⭐] 计数器 (`Counter.tsx`)
-    - [⭐] 输入框与状态同步 (`InputMirror.tsx`)
-- [✌️] **列表渲染(`.map()`)、Props 父子通信、`useEffect` 副作用初体验**
-    - [⭐] 实现用户信息子组件，接收父组件传递的 Props (`list-rendering/Item.tsx`)
-    - [⭐] 实现用户信息列表组件，从公开 API 获取数据后渲染列表 (`list-rendering/ListRendering.tsx`)
-    - [⭐] 父组件通过 Props 传递给子组件相关数据与函数
-- [✌️] **条件渲染**
-    - [⭐] 使用三元运算符切换组件 (`ConditionalRender.tsx`)
-    - [⭐] 使用 `&&` 操作符控制元素显示 (`ConditionalRender.tsx`)
+- [x] **`useState` 专项训练**
+    - [x] 计数器 (`Counter.tsx`)
+    - [x] 输入框与状态同步 (`InputMirror.tsx`)
+- [x] **列表渲染(`.map()`)、Props 父子通信、`useEffect` 副作用初体验**
+    - [x] 实现用户信息子组件，接收父组件传递的 Props (`list-rendering/Item.tsx`)
+    - [x] 实现用户信息列表组件，从公开 API 获取数据后渲染列表 (`list-rendering/ListRendering.tsx`)
+    - [x] 父组件通过 Props 传递给子组件相关数据与函数
+- [x] **条件渲染**
+    - [x] 使用三元运算符切换组件 (`ConditionalRender.tsx`)
+    - [x] 使用 `&&` 操作符控制元素显示 (`ConditionalRender.tsx`)
 
 
 ### **第二、三周：小型综合项目实战**
