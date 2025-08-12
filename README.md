@@ -11,7 +11,7 @@
 - [x] **第一周**: 掌握核心概念，形成肌肉记忆。
 - [ ] **第二、三周**: 能够独立完成小型综合项目，理解数据流与组件化。
 - [ ] **第四周**: 了解进阶概念与性能优化，为实战做准备。
-- [ ] **最终目标**: 能够得心应手地使用 React 进行开发，并开启 React Native 的学习之路。
+- [ ] **最终目标**: 能够得心应手地使用 React 进行开发。
 
 ## 🛠️ 技术栈
 
@@ -24,7 +24,7 @@
 
 ```bash
 # 1. 克隆项目到本地
-git clone [请在这里粘贴你的仓库SSH或HTTPS链接]
+git clone [https://github.com/JinyuXCode/React-Learning-Journey.git]
 
 # 2. 进入项目目录
 cd react-learning-journey
@@ -53,25 +53,26 @@ npm run dev
     - [x] 使用三元运算符切换组件 (`ConditionalRender.tsx`)
     - [x] 使用 `&&` 操作符控制元素显示 (`ConditionalRender.tsx`)
 
+***
+
+**第一阶段基础强化训练已圆满完成！🎉**
+
+***
 
 ### **第二、三周：小型综合项目实战**
 
 > 任务：构建一个网页版的“短剧 App”界面
 
+> 💡 **注意**: 为了实践更专业的项目架构和配置，此阶段及后续任务将在一个全新的仓库中进行。
+
+> 🚀 **第二阶段项目仓库地址 (Phase 2 Project Repo):** [点击跳转到 “短剧App” 实战项目](https://github.com/JinyuXCode/React-Drama-App.git)
+
+
 - [ ] **项目规划与组件拆分**
-    - [ ] `Header`
-    - [ ] `VideoList` / `VideoListItem`
-    - [ ] `SearchBar`
-    - [ ] `VideoDetailPage`
 - [ ] **状态提升 (Lifting State Up)**
-    - [ ] 将搜索状态和列表数据提升到父组件管理
 - [ ] **路由管理 (`react-router-dom`)**
-    - [ ] 配置首页和详情页的路由
-    - [ ] 实现页面间的跳转和参数传递
 - [ ] **表单处理**
-    - [ ] 实现一个功能完善的受控搜索框
 - [ ] **异步数据流管理**
-    - [ ] 在多个页面中处理加载、成功、失败三种状态
 
 ### **第四周：深入与优化**
 
